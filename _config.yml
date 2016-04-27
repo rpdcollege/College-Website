@@ -1,0 +1,16 @@
+name: "Royal Prudence Degree College"
+
+# Course Link
+bed_url: "/courses/bed"
+bba_url: "/courses/bba"
+btc_url: "/courses/btc"
+ba_url: "/courses/ba"
+
+
+url: "http://royalprudence.tk"
+
+markdown: kramdown
+permalink: /:title
+
+gems:
+  - jekyll-last-modified-at
